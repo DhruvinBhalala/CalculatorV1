@@ -1,0 +1,14 @@
+.buttonsContainer{
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button{
+  width: 66px;
+  height: 66px;
+  border: 1px solid lightgrey;
+  margin: 4px;
+}

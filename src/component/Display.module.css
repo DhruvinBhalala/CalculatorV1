@@ -1,0 +1,7 @@
+.display{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 14px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
